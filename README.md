@@ -1,6 +1,6 @@
-# H1
+# Aqui vou escrever um lindo título H1
 ## H2
-### H3
+### Aqui um sub-título
 Bold 	**bold text**
 Italic 	*italicized text*
 Blockquote 	> blockquote
@@ -19,6 +19,8 @@ Code 	`code`
 
 Horizontal Rule 	---
 
-Link 	[title](https://www.example.com)
+### Link 	
+[title](https://www.example.com)
 
-Image 	![desenho do Asteroide](asteroid.png)
+### Image 	
+![desenho do Asteroide](asteroid.png)
